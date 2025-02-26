@@ -1,5 +1,5 @@
 
-# 📊 HR Analytics Dashboard – Power BI Project
+# 📊 HR Analytics Dashboard – SQL AND Power BI Project
 ## 🚀 Overview
 This HR Analytics Dashboard provides key insights into employee data, attendance, salary trends, and performance evaluations using Power BI. The dashboard helps HR teams make data-driven decisions for better workforce management.
 
